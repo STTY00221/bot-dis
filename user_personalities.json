@@ -1,0 +1,53 @@
+{
+ "123456789": {
+  "username": "TestUser",
+  "first_seen": "2025-06-21T16:37:33.441765",
+  "message_count": 1,
+  "topics": {
+   "technology": 1,
+   "programming": 1
+  },
+  "personality_traits": [
+   "friendly",
+   "technical"
+  ],
+  "last_interaction": "2025-06-21T16:37:33.441803"
+ },
+ "689100033655963684": {
+  "username": "Idkwhoami",
+  "first_seen": "2025-06-22T12:23:02.186606",
+  "message_count": 4,
+  "topics": {},
+  "personality_traits": [],
+  "last_interaction": "2025-06-24T19:55:40.605870"
+ },
+ "837708874781818922": {
+  "username": "✿❀✿❀",
+  "first_seen": "2025-06-24T12:50:20.283602",
+  "message_count": 21,
+  "topics": {},
+  "personality_traits": [
+   "friendly"
+  ],
+  "last_interaction": "2025-06-30T12:32:28.362326"
+ },
+ "1305379674951651381": {
+  "username": "NaCl",
+  "first_seen": "2025-06-24T12:52:23.644487",
+  "message_count": 28,
+  "topics": {},
+  "personality_traits": [],
+  "last_interaction": "2025-06-28T17:26:16.981911"
+ },
+ "916543854822432859": {
+  "username": "root@stty:~$",
+  "first_seen": "2025-06-28T08:04:06.557615",
+  "message_count": 8,
+  "topics": {},
+  "personality_traits": [
+   "curious",
+   "friendly"
+  ],
+  "last_interaction": "2025-06-28T22:01:27.109466"
+ }
+}
